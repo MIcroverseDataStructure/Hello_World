@@ -1,5 +1,5 @@
 class HelloWorld
   def printhello
-    "Hello, World!"
+    'Hello, World!'
   end
 end
